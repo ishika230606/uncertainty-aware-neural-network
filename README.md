@@ -1,4 +1,4 @@
-# 🧠 Reliable Neural Network Framework for Uncertainty Estimation & OOD Detection
+# 🧠 Reliable Neural Network Framework for Uncertainty Estimation & Distribution Shift Detection
 
 ## 📌 Overview
 
